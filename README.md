@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YanjunPen
+- 👋 Hi, I’m @YangjunPen
 - 👀 I’m interested in running and swimming.
 - 🌱 I’m currently learning X-ray data generation(image to image) and X-ray dangerous goods detection(Computer vision)
 - 💞️ I’m looking to collaborate on ...
